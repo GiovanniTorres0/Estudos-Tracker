@@ -1,0 +1,10 @@
+{
+    "dias": {},
+    "tempos": {
+        "foco": 60,
+        "pausa": 300,
+        "pausa_longa": 900,
+        "meta_semanal": 36000
+    },
+    "ciclos": 0
+}
