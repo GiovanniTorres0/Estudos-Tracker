@@ -1,3 +1,5 @@
+# Estudos-Tracker
+
 Guia do Aplicativo: Estudos Tracker
 Descrição do Aplicativo
 O Estudos Tracker é um aplicativo de gerenciamento de estudos baseado na técnica Pomodoro. Ele ajuda você a organizar seu tempo de estudo, acompanhar seu progresso semanal e manter a disciplina com alertas sonoros e relatórios de desempenho.
@@ -133,4 +135,4 @@ O aplicativo salva os dados de progresso e configurações no seguinte local:
    ```
 
 ---
-# Estudos-Tracker
+
