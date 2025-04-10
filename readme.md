@@ -70,7 +70,7 @@ icon.ico: Ícone do aplicativo.
 alarme.mp3: Som do alarme.
 dados_estudo.json: Arquivo de dados para salvar o progresso.
 ## 2. Principais Classes e Funções
-App:
+App: 
 Gerencia a interface principal do aplicativo.
 Inclui o calendário, temporizador e botões de controle.
 PomodoroTimer:
@@ -133,3 +133,4 @@ O aplicativo salva os dados de progresso e configurações no seguinte local:
    ```
 
 ---
+# Estudos-Tracker
